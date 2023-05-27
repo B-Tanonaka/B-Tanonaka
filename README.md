@@ -13,46 +13,28 @@
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center" width="100%"><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,css,html,styledcomponents,webpack&perline=4" />
-  </a>
-</p>
+### Frontend/Design
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,css,html,styledcomponents,webpack,babel,figma,ae,pr,ps,ai&perline=5" style="margin:40px" />
+</div>
 </td><td valign="top" width="33%">
 
 
 ### Backend/Database  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,redux,nginx,postgres,mongodb,mysql,sqlite,&perline=4" />
-  </a>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,redux,nginx,postgres,mongodb,firebase,mysql,sqlite,&perline=5" />
+</div>
 </td><td valign="top" width="33%">
 
 
 
 ### DevOps/Deployment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,express,redux,nginx,postgres,mongodb,mysql,sqlite,&perline=4" />
-  </a>
-</p>
-</td><td valign="top" width="33%">
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,jest,git,github,linux&perline=5" />
 </div>
-
 </td></tr></table>  
 
 <br/>  
