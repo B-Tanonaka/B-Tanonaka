@@ -1,13 +1,13 @@
 
-### <div align="center">Aloha 🤙  I'm a video producer turned full stack developer in the San Francisco Bay Area</div>  
-  
+# <div align="center">Aloha 🤙 my name is Brett (he/him)</div>
+### <div align="center">Full Stack Developer</div>
 
-- 📹 I’m working on converting my [portfolio ](https://bretttanonaka.com/) from video production to engineering focused  
+Currently looking for full stack or front-end roles with a hybrid or remote structure in the San Francisco Bay Area 🌉
   
-
-- 🌱 I’m currently learning data visualization; next on my agenda is D3  
-  
-
+## About Me
+- 📹 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
+- 🌱 I’m currently learning about data visualization with charts; next I plan on learning D3 
+- 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in 
 - ❓ Ask me about anything related to the PERN stack or After Effects Expressions  
   
 
