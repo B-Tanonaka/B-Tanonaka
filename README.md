@@ -2,7 +2,7 @@
 # <div align="center">Aloha 🤙 my name is Brett (he/him)</div>
 ### <div align="center">Full Stack Developer</div>
 
-Currently looking for full stack or front-end roles with a hybrid or remote structure in the San Francisco Bay Area 🌉
+<div align="center">Currently looking for full stack or front-end roles with a remote or hybrid structure in the San Francisco Bay Area 🌉</div>
   
 ## About Me
 - 💻 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
@@ -71,14 +71,15 @@ Currently looking for full stack or front-end roles with a hybrid or remote stru
 
 <br/>  
 
-
-## Connect with me  
+## Let's Connect!
+<div>We can talk about the PERN stack, best poke spots on Oahu, or anything related to ragdolls.</div>
+<br/>
 <div align="center">
-<a href="https://github.com/B-Tanonaka" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/bretttanonaka" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:brett.a.tanonaka@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
+</a> 
 </div>  
 <br/>  
