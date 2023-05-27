@@ -7,8 +7,7 @@
 ## About Me
 - 💻 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
 - 🌱 I’m currently learning about data visualization with charts; next I plan on learning D3 
-- 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in [Times Square](https://vimeo.com/715789847/065e312552)
-- ❓ Ask me about anything related to the PERN stack or After Effects Expressions  
+- 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in [Times Square](https://vimeo.com/715789847/065e312552) 
   
 
 <br/>  
@@ -40,7 +39,7 @@
 <br/>  
 
 ## Let's Connect!
-<div>We can talk about the PERN stack, best poke spots on Oahu, or anything related to ragdolls.</div>
+<div>We can talk about the PERN stack, best poke spots on Oahu, or anything related to ragamuffins.</div>
 <br/>
 <div align="center">
 <a href="https://linkedin.com/in/bretttanonaka" target="_blank">
