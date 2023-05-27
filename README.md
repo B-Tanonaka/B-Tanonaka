@@ -5,9 +5,9 @@
 Currently looking for full stack or front-end roles with a hybrid or remote structure in the San Francisco Bay Area 🌉
   
 ## About Me
-- 📹 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
+- 💻 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
 - 🌱 I’m currently learning about data visualization with charts; next I plan on learning D3 
-- 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in 
+- 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in [Times Square](https://vimeo.com/715789847/065e312552)
 - ❓ Ask me about anything related to the PERN stack or After Effects Expressions  
   
 
@@ -81,12 +81,4 @@ Currently looking for full stack or front-end roles with a hybrid or remote stru
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=B-Tanonaka&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
