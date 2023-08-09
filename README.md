@@ -6,7 +6,7 @@
   
 ## About Me
 - 💻 I’m working on converting my [portfolio](https://bretttanonaka.com/) from video production to engineering focused  
-- 🌱 I’m currently learning about data visualization with charts; next I plan on learning D3 
+- 🌱 I’m currently learning more about routing and server-side rendering; next I plan on exploring D3
 - 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in [Times Square](https://vimeo.com/715789847/065e312552) 
   
 
