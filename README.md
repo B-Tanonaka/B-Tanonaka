@@ -5,7 +5,7 @@
 <div align="center">Currently looking for full stack or front-end roles with a remote or hybrid structure in the San Francisco Bay Area 🌉</div>
   
 ## About Me
-- 💻 I’m working on an open source project called [Litter.ai](https://github.com/codeforsanjose/litter.ai) which takes user submitted images of trash and tells you if it should be put in the landfill, recycling, or compost.
+- 💻 I’m working on an open source project called [LitterSort](https://littersort.ai/) which uses AI to analyze user submitted images of trash and tells you if the item should be put in the landfill, recycling, or compost.
 - 🌱 I’m currently learning more about sorting algorithms; next I plan in exploring machine learning in Python
 - 🎥 Formally a video producer, my work has been featured on [Yahoo! Finance](https://finance.yahoo.com/video/enjoy-technology-public-1-2-160245107.html), [Bloomberg](https://www.bloomberg.com/news/videos/2021-10-18/apple-veteran-ron-johnson-takes-enjoy-technology-public), and in [Times Square](https://vimeo.com/715789847/065e312552) 
   
